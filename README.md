@@ -2,7 +2,7 @@
 Meet Finder, an enthusiast take on what macOS Finder on Windows <b>should</b> be.
 <br/><br/>
 
-![GitHub top language](https://img.shields.io/github/languages/top/Popont-Studios/finder?label=C%23&logo=microsoft&logoColor=royalblue&style=social)
+![GitHub top language](https://img.shields.io/github/languages/top/Popont-Studios/finder?label=C%23&logo=microsoft&logoColor=royalblue&style=plastic)
 
 <img src="Files/Assets/FilesHome.png" width="600px">
 
